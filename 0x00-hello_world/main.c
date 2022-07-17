@@ -17,5 +17,8 @@ int main(void)
 {
 
 	    return (0);
+<<<<<<< HEAD
+=======
 
 }
+>>>>>>> 7c0d6a3d7dadb504bb71ae22900ff7c36166666a
